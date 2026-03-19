@@ -1,0 +1,2 @@
+It took me approximately 2 hours to complete this assignment.
+The majority of the time was spent understanding the OOP logic, managing the interactions between the accelerate and drive methods, and formatting the final output table for the car race correctly.
